@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"gopkg.in/birkirb/loggers.v1"
-	"gopkg.in/birkirb/loggers.v1/mappers"
+	"github.com/lishengliu/loggers"
+	"github.com/lishengliu/loggers/mappers"
 )
 
 // goTestLog maps the testing logger to an Advanced log interface.

@@ -6,8 +6,8 @@ import (
 	"os"
 	"strings"
 
-	"gopkg.in/birkirb/loggers.v1"
-	"gopkg.in/birkirb/loggers.v1/mappers"
+	"github.com/lishengliu/loggers"
+	"github.com/lishengliu/loggers/mappers"
 )
 
 // goLog maps the standard log package logger to an Advanced log interface.
